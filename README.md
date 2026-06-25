@@ -246,8 +246,8 @@ php artisan route:list
 |---|---|---|
 | M. Dzikri Sagara | 20241320004 | Project Manager |
 | Jilan Jalilah | 20241320039 | System Analyst |
-| Nosa Putra | 20241320025 | Frontend Developer |
 | Ahmad Sahrul P | 20241320031 | Backend Developer |
+| Nosa Putra | 20241320025 | Frontend Developer |
 | Eka Pebryanto | 20241320014 | Quality Assurance |
 
 ---

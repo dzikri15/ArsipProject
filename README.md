@@ -73,7 +73,7 @@ mysql --version
 
 ### 1. Clone / Ekstrak Proyek
 ```bash
-git clone https://github.com/dzikri15/ArsipProject
+git clone https://github.com/dzikri15/ArsipProject.git
 ```
 
 ### 2. Install Dependensi
